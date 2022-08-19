@@ -1,9 +1,1 @@
-Example .env
 
-PORT=5000
-POSTGRES_HOST=localhost
-POSTGRES_USER=postgres
-POSTGRES_PASSWORD=123123
-POSTGRES_DB=internet-shop
-POSTGRES_PORT=5432
-PRIVATE_KEY=jwt_secret_ggwp_glhf
